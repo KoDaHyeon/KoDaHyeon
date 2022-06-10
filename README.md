@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC9E6&height=300&section=header&text=kodaaa's👻&&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC9E6&height=300&section=header&text=kodaaa's👻&animation=twinkling&fontSize=70)
  
 
 <h3 align="center">🛠 TECH STACK 🛠</h3>
